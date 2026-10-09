@@ -8,8 +8,8 @@ def isPrime(n):
 def sortArray(a: list[int]):
     a.sort()
 
-def countPrimes:
-	print(1)
+def countPrimes(n):
+	print(67)
 
 # Nhận một chuỗi các số nguyên từ người dùng, cách nhau bởi dấu cách
 input_str = input("Enter a list of numbers separated by space: ")
